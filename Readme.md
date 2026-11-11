@@ -47,8 +47,11 @@ Meu objetivo é evoluir como desenvolvedor, transformar ideias em soluções e a
 ## 📊 GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRubenns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRubenns&layout=compact&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRubenns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRubenns&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
