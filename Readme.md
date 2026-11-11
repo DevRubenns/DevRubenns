@@ -56,10 +56,24 @@ Meu objetivo é evoluir como desenvolvedor, transformar ideias em soluções e a
 
 ---
 
-### 📫 Vamos nos conectar?
 
-💻 GitHub: [@DevRubenns](https://github.com/DevRubenns)
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+  <a href="https://github.com/DevRubenns" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://br.linkedin.com/in/rubenns-junior" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+---
 
 ⭐ Obrigado por visitar meu perfil!
 
 *"Todo grande desenvolvedor começou escrevendo suas primeiras linhas de código. O importante é nunca parar de aprender!"*
+
